@@ -74,6 +74,7 @@ header h1 {
     width: 75%;
     float: right;
     margin-top: 2em;
+    box-shadow: 0.5em 0.5em 0.5em #888888;
 }
 
 .top-right-col {
